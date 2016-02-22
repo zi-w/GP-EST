@@ -1,4 +1,4 @@
-# GP-EST
+# GP-EST: A Unifying Algorithm for GP-UCB and Probability of Improvement
 This is a matlab demonstration for an algorithm for Bayesian optimization with the Gaussian process assumption. The algorithm is fully described in
 
 Zi Wang, Bolei Zhou, and Stefanie Jegelka. Optimization as Estimation with Gaussian Processes in Bandit Settings. arXiv:1510.06423 (2015).
